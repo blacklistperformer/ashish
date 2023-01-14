@@ -16,5 +16,8 @@ int main()
     cout << "Hello Ass ashish" << endl;
     cout<< "hue hue heu 0"<<endl;
 
+    cout<<"ab hamne ayah sae change krna shuru kiya hai thik h"<< endl;
+    
+
     return 0;
 }
